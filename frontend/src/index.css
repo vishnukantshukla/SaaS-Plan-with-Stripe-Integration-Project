@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.diagonal-background {
+  background: linear-gradient(
+    to bottom right,
+    wheat 0%,
+    wheat 50%,
+    #0240fa 50%,
+    #013ef6 1000%
+  );
+}
+
+/* Custom styles */
+.shadow-custom {
+  box-shadow: 5px 14px 10px black;
+}
+.saas-custom {
+  text-shadow: 2px 4px 6px black;
+  color: white;
+}
+
