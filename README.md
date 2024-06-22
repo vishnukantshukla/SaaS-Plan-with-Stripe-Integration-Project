@@ -1,4 +1,4 @@
-# **BreadcrumbsSaaS-Plan-with-Stripe-Integration**  
+# **SaaS-Plan-with-Stripe-Integration**  
 This repository provides an example of integrating Stripe for processing payments using test card details. The guide will walk you through setting up a basic payment form, processing the payment, and confirming a successful transaction.  
 
 **Prerequisites**    
